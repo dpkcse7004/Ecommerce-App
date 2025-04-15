@@ -1,0 +1,15 @@
+1. Create react app 
+2. Change title to Exommerce
+3. install react router dom
+4. Create component folder inside src 
+5. Create Navbar Folder Inside Component 
+6. Navbar->{Navbar.jsx and Navbar.css}
+
+//Working inside Navbar
+-> We will create a navbar which contains a logo in the left side and add to cart logo in right side while menu options in middle part
+-> Implement react router dom 
+    ->click on home 
+    ->click on men 
+    ->click on women 
+    ->click on kids
+-> Apply css in Navbar.css
